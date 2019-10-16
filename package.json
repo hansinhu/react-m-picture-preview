@@ -1,20 +1,20 @@
 {
   "name": "react-m-picture-preview",
   "version": "2.0.0",
-  "description": "React Mobile Carousel Component for web and react-native",
+  "description": "React Mobile Picture Preview Component for web and react-native",
   "keywords": [
     "react",
     "react-component",
-    "react-mobile-carousel",
-    "carousel"
+    "react-m-picture-preview",
+    "picture-preview"
   ],
-  "homepage": "https://github.com/hansinhu/react-m-carousel",
+  "homepage": "https://github.com/hansinhu/react-m-picture-preview",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hansinhu/react-m-carousel.git"
+    "url": "https://github.com/hansinhu/react-m-picture-preview.git"
   },
   "bugs": {
-    "url": "https://github.com/hansinhu/react-m-carousel/issues"
+    "url": "https://github.com/hansinhu/react-m-picture-preview/issues"
   },
   "files": [
     "lib",
